@@ -3,6 +3,401 @@
 #+TODO: | KANSELLERT
 #+TODO: OBS | 
 
+* Årsplan
+:PROPERTIES:
+:export_file_name: aarsplan.html
+:END:
+:LOGBOOK:
+CLOCK: [2020-09-02 Wed 12:05]
+:END:
+| Uke | Dag | Tema                         |    Delavsnitt | Merknad           |
+|-----+-----+------------------------------+---------------+-------------------|
+|  34 | man |                              |               |                   |
+|     | ons | Integralregning              |      1.1, 1.2 |                   |
+|  35 | man |                              | 1.3, 1.4, 1.5 |                   |
+|     | ons |                              |           1.6 | Minitest 1        |
+|  36 | man |                              |           1.7 |                   |
+|     | ons | Trigonometriske likninger    |           2.1 |                   |
+|  37 | man |                              |           2.2 | 2.25 a, og 2.24 c |
+|     | ons |                              |      2.3, 2.4 | Minitest 2        |
+|  38 | man |                              |           2.5 |                   |
+|     | ons |                              |      2.6, 2.7 |                   |
+|  39 | man |                              |           2.8 |                   |
+|     | ons |                              |           2.9 | Minitest 3        |
+|  40 | ... | --                           |            -- | Høstferie         |
+|     | ... | --                           |            -- | Høstferie         |
+|  41 | man |                              |               |                   |
+|     | ons |                              |               | Prøve?            |
+|  42 | man | Trigonometriske funksjoner   |      3.1, 3.2 |                   |
+|     | ons |                              |           3.3 |                   |
+|  43 | man |                              |      3.4, 3.5 |                   |
+|     | ons |                              |           3.6 | Minitest 4        |
+|  44 | man |                              |           3.7 |                   |
+|     | ons |                              |      3.8, 3.9 |                   |
+|  45 | man |                              |          3.10 |                   |
+|     | ons |                              |               |                   |
+|  46 | man | Vektorer                     |               |                   |
+|     | ons |                              |               |                   |
+|  47 | ... |                              |               | Heldagsprøver     |
+|     | ... |                              |               | Heldagsprøver     |
+|  48 | man |                              |               |                   |
+|     | ons |                              |               | Prøve?            |
+|  49 | man | Vektorprodukt og romgeometri |               |                   |
+|     | ons |                              |               |                   |
+|  50 | man |                              |               |                   |
+|     | ons |                              |               |                   |
+|  51 | man |                              |               |                   |
+|     | ons |                              |               |                   |
+|-----+-----+------------------------------+---------------+-------------------|
+|   1 | man |                              |               |                   |
+|     | ons |                              |               |                   |
+|   2 | man |                              |               |                   |
+|     | ons |                              |               |                   |
+|   3 | man | Integrasjonsmetoder          |               |                   |
+|     | ons |                              |               |                   |
+|   4 | man |                              |               |                   |
+|     | ons |                              |               |                   |
+|   5 | man |                              |               |                   |
+|     | ons |                              |               |                   |
+|   6 | man | Differensiallikninger        |               |                   |
+|     | ons |                              |               | Prøve?            |
+|   7 | man |                              |               |                   |
+|     | ... |                              |               | Utdanningsmesse   |
+|   8 | ... |                              |               | Vinterferie       |
+|     | ... |                              |               | Vinterferie       |
+|   9 | man |                              |               |                   |
+|     | ons |                              |               |                   |
+|  10 | man |                              |               |                   |
+|     | ons |                              |               |                   |
+|  11 | man | Følger og rekker             |               |                   |
+|     | ons |                              |               |                   |
+|  12 | man |                              |               |                   |
+|     | ons |                              |               |                   |
+|  13 | ... |                              |               | Påskeferie        |
+|     | ... |                              |               | Påskeferie        |
+|  14 | ... |                              |               | Påskeferie        |
+|     | ons |                              |               |                   |
+|  15 | man |                              |               |                   |
+|     | ons |                              |               |                   |
+|  16 | man | Reservetid                   |               |                   |
+|     | ons |                              |               |                   |
+|  17 | man |                              |               |                   |
+|     | ons |                              |               |                   |
+|  18 | man |                              |               |                   |
+|     | ons |                              |               |                   |
+|  19 | man |                              |               |                   |
+|     | ons |                              |               |                   |
+|  20 | ... |                              |               | 17. mai           |
+|     | ons |                              |               |                   |
+|  21 | ... |                              |               | 2. pinsedag       |
+|     | ons |                              |               |                   |
+
+* Uke 34 - onsdag
+:LOGBOOK:
+CLOCK: [2020-08-22 Sat 19:01]--[2020-08-22 Sat 19:20] =>  0:19
+- State "AVHOLDT"    from "PLANLAGT"   [2020-08-19 Wed 15:32] \\
+  For mye tekst. Gikk også gjennom «funksjoner som bokser».
+CLOCK: [2020-08-19 Wed 12:55]--[2020-08-19 Wed 15:32] =>  2:37
+CLOCK: [2020-08-19 Wed 11:35]--[2020-08-19 Wed 12:04] =>  0:29
+CLOCK: [2020-08-18 Tue 12:30]--[2020-08-18 Tue 12:37] =>  0:07
+CLOCK: [2020-08-17 Mon 12:37]--[2020-08-17 Mon 13:42] =>  1:05
+CLOCK: [2020-08-12 Wed 14:24]--[2020-08-12 Wed 15:08] =>  0:44
+- [2020-08-05 Wed 14:07] \\
+  Her bør det komme inn noe fra cite:strogatz19_infin_power.
+CLOCK: [2020-08-05 Wed 13:15]--[2020-08-05 Wed 13:35] =>  0:20
+CLOCK: [2020-08-05 Wed 10:38]--[2020-08-05 Wed 11:00] =>  0:22
+- [2020-08-05 Wed 10:35] \\
+  Grovskisse av økt-framgang
+CLOCK: [2020-08-05 Wed 09:54]--[2020-08-05 Wed 10:35] =>  0:41
+CLOCK: [2020-07-19 Sun 12:34]--[2020-07-19 Sun 12:34] =>  0:00
+:END:
+<2020-08-19 Wed 13:00-15:30>
+- Alle rundt i ring, introdusere deg -- bytte navn
+- Stå overfor hverandre, introdusere og si to ting
+
+- Hvor er vi nå?
+- Opplegget for dette faget
+
+- 1.1 :: Derivasjon
+- 1.2 :: Ubestemt integral
+
+* Uke 35 - mandag
+:LOGBOOK:
+- [2020-08-26 Wed 15:23] \\
+  Altfor mye tid på tavla ... igjen.
+CLOCK: [2020-08-26 Wed 13:01]--[2020-08-26 Wed 15:23] =>  2:22
+CLOCK: [2020-08-26 Wed 10:11]--[2020-08-26 Wed 10:20] =>  0:09
+CLOCK: [2020-08-25 Tue 13:09]--[2020-08-25 Tue 15:17] =>  2:08
+- [2020-08-24 Mon 21:48] \\
+  Det blei litt lite tid til å jobbe med oppgaver. Jeg trur det gjelder å finne en arbeidsform som gjør at det blir mer tid til det i timen, og mindre til at jeg går gjennom stoffet fra boka. Kanskje hadde det vært lurere om jeg jobba på en måte à la Jan B. Aarseth i Statisk mekanikk, hvor han stort sett jobbet seg gjennom ett eller to spesifikke, ordentlige eksempler. Hva tenker du?
+- [2020-08-24 Mon 13:49] \\
+  Gitt litt over tida, det blei stress på slutten.
+- [2020-08-24 Mon 13:20] \\
+  Det blir litt lite tid til å jobbe med oppgaver.
+- [2020-08-24 Mon 12:44] \\
+  Gikk gjennom skrivemåte $\int f(x) dx$.
+CLOCK: [2020-08-24 Mon 12:13]--[2020-08-24 Mon 13:49] =>  1:36
+CLOCK: [2020-08-24 Mon 11:07]--[2020-08-24 Mon 11:49] =>  0:42
+CLOCK: [2020-08-19 Wed 12:14]--[2020-08-19 Wed 12:43] =>  0:29
+:END:
+<2020-08-24 Mon 12:15-13:45>
+- [X] 1.3 :: Integralet $\int \frac{1}{x} dx$
+- [X] 1.4 :: Integrasjon av eksponentialfunksjoner
+- [X] 1.5 :: Bestemt integral som grense for en sum
+
+* Uke 35 - onsdag
+:LOGBOOK:
+- [2020-09-01 Tue 13:08] \\
+  Retting av første minitest.
+CLOCK: [2020-09-01 Tue 12:40]--[2020-09-01 Tue 13:07] =>  0:27
+:END:
+<2020-08-26 Wed 13:00-15:30>
+- [X] 1.6 :: Bestemt integral og antiderivasjon
+- [X] [[file:minitester/mt1_integrasjon.pdf][Minitest - Integrasjon]]
+
+* Uke 36 - mandag
+:LOGBOOK:
+- [2020-08-31 Mon 15:30] \\
+  Bra time med  kun gjennomgang av oppgave.
+CLOCK: [2020-08-31 Mon 12:13]--[2020-08-31 Mon 13:47] =>  1:34
+- [2020-08-27 Thu 12:03] \\
+  Møt Dorthe fem minutter før.
+CLOCK: [2020-08-27 Thu 09:26]--[2020-08-27 Thu 09:27] =>  0:01
+CLOCK: [2020-08-25 Tue 16:03]--[2020-08-25 Tue 16:21] =>  0:18
+:END:
+<2020-08-31 Mon 12:15-13:45>
+
+- [X] 1.7 :: Mer om integrasjon og areal
+
+* Uke 36 - onsdag
+:LOGBOOK:
+CLOCK: [2020-09-01 Tue 13:09]--[2020-09-01 Tue 13:42] =>  0:33
+:END:
+<2020-09-02 Wed 13:00-15:30>
+
+- Arbeid med oppgaver fra kapittel 1.
+
+- [X] 2.1 :: Vinkelmål
+
+Lenker:
+- https://en.wikipedia.org/wiki/Radian
+
+* Uke 37 - mandag
+:LOGBOOK:
+CLOCK: [2020-09-01 Tue 15:05]--[2020-09-01 Tue 15:14] =>  0:09
+:END:
+<2020-09-07 Mon 12:15-13:45>
+- [X] 2.2 :: Sinus og cosinus (2.25 a, og 2.24 c)
+
+* Uke 37 - onsdag
+<2020-09-09 Wed 13:00-15:30>
+
+- [ ] 2.3 :: Sinuslikninger
+- [ ] 2.4 :: Cosinuslikninger
+- [ ] Minitest 2
+
+* Uke 38 - mandag
+<2020-09-14 Mon 12:15-13:45>
+
+* Uke 38 - onsdag
+<2020-09-16 Wed 13:00-15:30>
+
+* Uke 39 - mandag
+<2020-09-21 Mon 12:15-13:45>
+
+* Uke 39 - onsdag
+<2020-09-23 Wed 13:00-15:30>
+
+* Uke 41 - mandag
+<2020-10-05 Mon 12:15-13:45>
+
+* Uke 41 - onsdag
+<2020-10-07 Wed 13:00-15:30>
+
+* Uke 42 - mandag
+<2020-10-12 Mon 12:15-13:45>
+
+* Uke 42 - onsdag
+<2020-10-14 Wed 13:00-15:30>
+
+* Uke 43 - mandag
+<2020-10-19 Mon 12:15-13:45>
+
+* Uke 43 - onsdag
+<2020-10-21 Wed 13:00-15:30>
+
+* Uke 44 - mandag
+<2020-10-26 Mon 12:15-13:45>
+
+* Uke 44 - onsdag
+<2020-10-28 Wed 13:00-15:30>
+
+* Uke 45 - mandag
+<2020-11-02 Mon 12:15-13:45>
+
+* Uke 45 - onsdag
+<2020-11-04 Wed 13:00-15:30>
+
+* Uke 48 - mandag
+<2020-11-23 Mon 12:15-13:45>
+
+* Uke 48 - onsdag
+<2020-11-25 Wed 13:00-15:30>
+
+* Uke 49 - mandag
+<2020-11-30 Mon 12:15-13:45>
+
+* Uke 49 - onsdag
+<2020-12-02 Wed 13:00-15:30>
+
+* Uke 50 - mandag
+<2020-12-07 Mon 12:15-13:45>
+
+* Uke 50 - onsdag
+<2020-12-09 Wed 13:00-15:30>
+
+* Uke 51 - mandag
+<2020-12-14 Mon 12:15-13:45>
+
+* Uke 51 - onsdag
+<2020-12-16 Wed 13:00-15:30>
+
+* Uke 52 - mandag
+<2020-12-21 Mon 12:15-13:45>
+
+* Uke 52 - onsdag
+<2020-12-23 Wed 13:00-15:30>
+
+* Uke 53 - mandag
+<2020-12-28 Mon 12:15-13:45>
+
+* Uke 53 - onsdag
+<2020-12-30 Wed 13:00-15:30>
+
+* Uke 1 - mandag
+<2021-01-04 Mon 12:15-13:45>
+
+* Uke 1 - onsdag
+<2021-01-06 Wed 13:00-15:30>
+
+* Uke 2 - mandag
+<2021-01-11 Mon 12:15-13:45>
+
+* Uke 2 - onsdag
+<2021-01-13 Wed 13:00-15:30>
+
+* Uke 3 - mandag
+<2021-01-18 Mon 12:15-13:45>
+
+* Uke 3 - onsdag
+<2021-01-20 Wed 13:00-15:30>
+
+* Uke 4 - mandag
+<2021-01-25 Mon 12:15-13:45>
+
+* Uke 4 - onsdag
+<2021-01-27 Wed 13:00-15:30>
+
+* Uke 5 - mandag
+<2021-02-01 Mon 12:15-13:45>
+
+* Uke 5 - onsdag
+<2021-02-03 Wed 13:00-15:30>
+
+* Uke 6 - mandag
+<2021-02-08 Mon 12:15-13:45>
+
+* Uke 6 - onsdag
+<2021-02-10 Wed 13:00-15:30>
+
+* Uke 7 - mandag
+<2021-02-15 Mon 12:15-13:45>
+
+* Uke 9 - mandag
+<2021-03-01 Mon 12:15-13:45>
+
+* Uke 9 - onsdag
+<2021-03-03 Wed 13:00-15:30>
+
+* Uke 10 - mandag
+<2021-03-08 Mon 12:15-13:45>
+
+* Uke 10 - onsdag
+<2021-03-10 Wed 13:00-15:30>
+
+* Uke 11 - mandag
+<2021-03-15 Mon 12:15-13:45>
+
+* Uke 11 - onsdag
+<2021-03-17 Wed 13:00-15:30>
+
+* Uke 12 - mandag
+<2021-03-22 Mon 12:15-13:45>
+
+* Uke 12 - onsdag
+<2021-03-24 Wed 13:00-15:30>
+
+* Uke 13 - mandag
+<2021-03-29 Mon 12:15-13:45>
+
+* Uke 13 - onsdag
+<2021-03-31 Wed 13:00-15:30>
+
+* Uke 14 - mandag
+<2021-04-05 Mon 12:15-13:45>
+
+* Uke 14 - onsdag
+<2021-04-07 Wed 13:00-15:30>
+
+* Uke 15 - mandag
+<2021-04-12 Mon 12:15-13:45>
+
+* Uke 15 - onsdag
+<2021-04-14 Wed 13:00-15:30>
+
+* Uke 16 - mandag
+<2021-04-19 Mon 12:15-13:45>
+
+* Uke 16 - onsdag
+<2021-04-21 Wed 13:00-15:30>
+
+* Uke 17 - mandag
+<2021-04-26 Mon 12:15-13:45>
+
+* Uke 17 - onsdag
+<2021-04-28 Wed 13:00-15:30>
+
+* Uke 18 - mandag
+<2021-05-03 Mon 12:15-13:45>
+
+* Uke 18 - onsdag
+<2021-05-05 Wed 12:15-13:45>
+
+* Uke 19 - mandag
+<2021-05-10 Mon 12:15-13:45>
+
+* Uke 20 - mandag
+<2021-05-12 Wed 12:15-13:45>
+
+* Møter :noexport:
+** DONE Samarbeidsdag med Sigrid
+:LOGBOOK:
+CLOCK: [2020-06-09 Tue 09:22]--[2020-06-09 Tue 12:36] =>  3:14
+:END:
+*** For å lage Jupyter-oppsett
+- Åpne Jupyter-Lab
+** Planleggingsmøte med Anna
+:PROPERTIES:
+:ROOM:     personal
+:END:
+:LOGBOOK:
+CLOCK: [2020-08-17 Mon 13:42]--[2020-08-17 Mon 14:17] =>  0:35
+:END:
+<2020-08-17 Mon 13:30-14:30>
+- [ ] Ført i Teams
+- Ett prosjekt felles med Fysikk 2 - ubestemt vårpart
+  - Alle timene i en uke
+  - Numerisk og analytisk
 * Notater :noexport:
 - [[https://udeoslokommuneno-my.sharepoint.com/:w:/r/personal/kaesa007_osloskolen_no/_layouts/15/Doc.aspx?sourcedoc=%7B7F10ED58-7F16-4E7F-90D7-7C2B2DEEEF55%7D&file=R2%20-%20%C3%85rsplan%202019-2020.docx&wdOrigin=OFFICECOM-WEB.MAIN.MRU&action=default&mobileredirect=true&cid=df401abe-0082-4d31-b747-7f2df51dd0de][Karolines periodeplan for 2019-20]]
 ** Sympy som alternativ til CAS
@@ -114,361 +509,30 @@ CLOCK: [2020-08-05 Wed 14:05]--[2020-08-05 Wed 14:05] =>  0:00
 
 ** Introduksjonsvideo til Sympy og Jupyter lab
 :LOGBOOK:
+CLOCK: [2020-08-27 Thu 13:23]--[2020-08-27 Thu 14:05] =>  0:42
 CLOCK: [2020-08-27 Thu 09:27]--[2020-08-27 Thu 09:28] =>  0:01
 :END:
+
+- Sympy er et alternativ til CAS i Geogebra
+- Jupyter lab er et slags alternativ til Word + Geogebra
+
+- [X] Oppstart :: "Anaconda Navigator" -> "Jupyter Lab" || "Jupyter Notebook"
+- [X] Løse enkle oppgaver
+- [X] Sette inn figurer
+- [X] Skrive ut som pdf
+
 ** matte.py
 :LOGBOOK:
 CLOCK: [2020-08-27 Thu 09:25]--[2020-08-27 Thu 10:39] =>  1:14
 :END:
-** Eksportopplegg
+** Eksportopplegg :ATTACH:
+:PROPERTIES:
+:ID:       a7d4bb80-6baa-4ed0-a729-fab4f73a0224
+:END:
 :LOGBOOK:
-CLOCK: [2020-08-27 Thu 12:01]
+CLOCK: [2020-08-27 Thu 15:22]--[2020-08-27 Thu 16:33] =>  1:11
+CLOCK: [2020-08-27 Thu 12:01]--[2020-08-27 Thu 12:22] =>  0:21
 :END:
 - Her er jeg usikker på hva jeg ønsker. Det burde holdes så enkelt som mulig, og kanskje er det også greit å unngå at dette blir en nettside?
+- Se [[attachment:Tempoplan_for_Sinus_R2_utgave_2015.pdf][tempoplanforslag fra forlaget]].
 
-* Integrasjon
-** Lærestoff
-Kapittel 1 og 6
-
-** Viktige begrep og setninger
-- Antiderivert
-- Ubestemt integral
-- Bestemt integral
-- Fundamentalsetningen
-
-** Kompetansemål
-- Gjøre rede for definisjonen av bestemt integral som grense for en sum og ubestemt integral som antiderivert
-- Bergene integraler av de sentrasle funksjoenne ved antiderivasjon og ved hjelp av variabelskifte, ved delbrøksoppspalting med lineære nevnere og delvis integrasjon
-- Tolke det bestemte integralet i modeller av praktiske situasjoner og bruke det til å beregene arealer av plane områder og volumer av omdreiningslegemer
-
-** Økter
-:LOGBOOK:
-- [2020-08-05 Wed 10:35] \\
-  Grovskisse av økt-framgang
-CLOCK: [2020-08-05 Wed 09:54]--[2020-08-05 Wed 10:35] =>  0:41
-CLOCK: [2020-07-19 Sun 12:34]--[2020-07-19 Sun 12:34] =>  0:00
-:END:
-*** Uke 34
-:LOGBOOK:
-CLOCK: [2020-08-22 Sat 19:01]--[2020-08-22 Sat 19:20] =>  0:19
-- State "AVHOLDT"    from "PLANLAGT"   [2020-08-19 Wed 15:32] \\
-  For mye tekst. Gikk også gjennom «funksjoner som bokser».
-CLOCK: [2020-08-19 Wed 12:55]--[2020-08-19 Wed 15:32] =>  2:37
-CLOCK: [2020-08-19 Wed 11:35]--[2020-08-19 Wed 12:04] =>  0:29
-CLOCK: [2020-08-18 Tue 12:30]--[2020-08-18 Tue 12:37] =>  0:07
-CLOCK: [2020-08-17 Mon 12:37]--[2020-08-17 Mon 13:42] =>  1:05
-CLOCK: [2020-08-12 Wed 14:24]--[2020-08-12 Wed 15:08] =>  0:44
-- [2020-08-05 Wed 14:07] \\
-  Her bør det komme inn noe fra cite:strogatz19_infin_power.
-CLOCK: [2020-08-05 Wed 13:15]--[2020-08-05 Wed 13:35] =>  0:20
-CLOCK: [2020-08-05 Wed 10:38]--[2020-08-05 Wed 11:00] =>  0:22
-:END:
-<2020-08-19 Wed 13:00-15:30>
-- Alle rundt i ring, introdusere deg -- bytte navn
-- Stå overfor hverandre, introdusere og si to ting
-
-- Hvor er vi nå?
-- Opplegget for dette faget
-
-- 1.1 :: Derivasjon
-- 1.2 :: Ubestemt integral
-
-*** Uke 35
-:LOGBOOK:
-- [2020-08-26 Wed 15:23] \\
-  Altfor mye tid på tavla ... igjen.
-CLOCK: [2020-08-26 Wed 13:01]--[2020-08-26 Wed 15:23] =>  2:22
-CLOCK: [2020-08-26 Wed 10:11]--[2020-08-26 Wed 10:20] =>  0:09
-CLOCK: [2020-08-25 Tue 13:09]--[2020-08-25 Tue 15:17] =>  2:08
-- [2020-08-24 Mon 21:48] \\
-  Det blei litt lite tid til å jobbe med oppgaver. Jeg trur det gjelder å finne en arbeidsform som gjør at det blir mer tid til det i timen, og mindre til at jeg går gjennom stoffet fra boka. Kanskje hadde det vært lurere om jeg jobba på en måte à la Jan B. Aarseth i Statisk mekanikk, hvor han stort sett jobbet seg gjennom ett eller to spesifikke, ordentlige eksempler. Hva tenker du?
-- [2020-08-24 Mon 13:49] \\
-  Gitt litt over tida, det blei stress på slutten.
-- [2020-08-24 Mon 13:20] \\
-  Det blir litt lite tid til å jobbe med oppgaver.
-- [2020-08-24 Mon 12:44] \\
-  Gikk gjennom skrivemåte $\int f(x) dx$.
-CLOCK: [2020-08-24 Mon 12:13]--[2020-08-24 Mon 13:49] =>  1:36
-CLOCK: [2020-08-24 Mon 11:07]--[2020-08-24 Mon 11:49] =>  0:42
-CLOCK: [2020-08-19 Wed 12:14]--[2020-08-19 Wed 12:43] =>  0:29
-:END:
-<2020-08-24 Mon 12:15-13:45>
-<2020-08-26 Wed 13:00-15:30>
-- [X] 1.3 :: Integralet $\int \frac{1}{x} dx$
-- [X] 1.4 :: Integrasjon av eksponentialfunksjoner
-- [X] 1.5 :: Bestemt integral som grense for en sum
-- [X] 1.6 :: Bestemt integral og antiderivasjon
-- [X] [[file:minitester/mt1_integrasjon.pdf][Minitest - Integrasjon]]
-
-*** OBS Uke 36
-:LOGBOOK:
-- [2020-08-27 Thu 12:03] \\
-  Møt Dorthe fem minutter før.
-CLOCK: [2020-08-27 Thu 09:26]--[2020-08-27 Thu 09:27] =>  0:01
-CLOCK: [2020-08-25 Tue 16:03]--[2020-08-25 Tue 16:21] =>  0:18
-:END:
-<2020-08-31 Mon 12:15-13:45>
-<2020-09-02 Wed 13:00-15:30>
-- [X] 1.7 :: Mer om integrasjon og areal
-
-- 6.1 :: Integral og samlet resultat
-- 6.2 :: Integrasjon og volum
-
-*** Uke 37
-<2020-09-07 Mon 12:15-13:45>
-<2020-09-09 Wed 13:00-15:30>
-- 6.3 :: Ubestemt integral og variabelskifte
-- 6.4 :: Bestemt integral og variabelskifte
-
-**** Minitest
-
-*** Uke 38
-<2020-09-14 Mon 12:15-13:45>
-<2020-09-16 Wed 13:00-15:30>
-- 6.5 :: Delvis integrasjon
-- 6.6 :: Integrasjon ved delbrøksoppspalting
-
-*** Uke 39
-:LOGBOOK:
-- [2020-07-19 Sun 12:34] \\
-  Denne inkluderer trigonometri hos Karoline
-:END:
-<2020-09-21 Mon 12:15-13:45>
-<2020-09-23 Wed 13:00-15:30>
-- 6.7 :: Funksjonsdrøfting
-
-**** Minitest
-
-*** Derivasjon
-- Bruke derivasjonsregler til å derivere ulike funksjoner
-
-*** Integral
-- Kunne regne ut ubestemte og bestemte integraler
-- Integrere funksjoner som $frac{1}{x}$, $e^x$, $a^x$
-- Gjøre rede for integral som grense for en sum med og uten digitale hjelpemidler
-- Regne ut areal mellom grafer og aksene
-
-*** Integralregning i praktiske situasjoner
-- Volum av gjenstander ved bruke av bestemt integral
-- Integralregning med variabelskifte
-
-* Trigonometri
-** Lærestoff
-Kapittel 2 og 3
-
-** Viktige begrep og setninger
-- Radianer
-- Absolutt vinkelmål
-- Sinuslikning
-- Cosinuslikning
-- Tangenslikning
-- Enhetssirkel
-- Enhetsformelen
-
-** Kompetansemål
-- Forenkle og løse lineære og kvadratiske likninger i trigonometriske uttrykk ved å bruke sammenhenger mellom de trigonometriske funksjonene
-- Derivere sentrale funksjoner og bruke førstederiverte og andrederiverte til å drøfte slike funksjoner
-- Omforme trigonometriske uttrykk av typen $a\sin(kx) + b\cos(kx)$ og bruke dem til å modellere periodiske fenomener
-- Formulere en matematisk modell ved hjelp av sentrale funksjoner på grunnlag av observerte data, bearbeide modellen og drøfte resultat og framgangsmåte
-
-** Økter
-*** Uke 41
-<2020-10-05 Mon 12:15-13:45>
-<2020-10-07 Wed 13:00-15:30>
-
-*** Uke 42
-<2020-10-12 Mon 12:15-13:45>
-<2020-10-14 Wed 13:00-15:30>
-
-*** Uke 43
-<2020-10-19 Mon 12:15-13:45>
-<2020-10-21 Wed 13:00-15:30>
-
-*** Uke 44
-<2020-10-26 Mon 12:15-13:45>
-<2020-10-28 Wed 13:00-15:30>
-
-*** Uke 45
-<2020-11-02 Mon 12:15-13:45>
-<2020-11-04 Wed 13:00-15:30>
-
-*** Vinkler
-- Kunne regne med absolutt vinkelmål og radianer
-
-*** Trigonometriske funksjoner
-- Kunne definisjonen til sinus, cosinus og tangens og løse enkle trigonometriske likninger
-- Integrere trigonometriske funksjoner
-
-* Vektorer og romgeometri
-** Lærestoff
-Kapittel 4 og 5
-
-** Viktige begrep og setninger
-- Skalarprodukt
-- Vektorprodukt
-
-** Kompetansemål
-- Utføre beregninger med tredimensjonale vektorer som er representert både geometrisk og på koordinatform
-- Bruke og tolke skalar- og vektorprodukt i beregning av avstander, vinkler, areal og volum
-- Bruke vektorregning til å finne liknings- og parameterfremstillinger til linjer, plan og kuleflater
-- Beregne lengderm vinkler og arealer i legem er avgranset av plan og kuleflater
-
-** Økter
-:LOGBOOK:
-- [2020-07-19 Sun 12:40] \\
-  Her stod det opprinnelig «48-50» og «1-5».
-:END:
-- Finne skalarproduktet av vektorer i rommet og bruke dette til å finne lengder og vinkler
-- Burke vektorprodukt og determinanter til å beregne volum og areal
-- Regne med geometriske plan, finne vinkler mellom dem og avstand fra punkt til linje og plan
-- Finne likninger for kuleflater og beregne lengder, vinkler og areal avgrenset av plan og kuleflater
-*** Uke 48
-<2020-11-23 Mon 12:15-13:45>
-<2020-11-25 Wed 13:00-15:30>
-
-*** Uke 49
-<2020-11-30 Mon 12:15-13:45>
-<2020-12-02 Wed 13:00-15:30>
-
-*** Uke 50
-<2020-12-07 Mon 12:15-13:45>
-<2020-12-09 Wed 13:00-15:30>
-
-*** Uke 51
-<2020-12-14 Mon 12:15-13:45>
-<2020-12-16 Wed 13:00-15:30>
-
-*** Uke 52
-<2020-12-21 Mon 12:15-13:45>
-<2020-12-23 Wed 13:00-15:30>
-
-*** Uke 53
-<2020-12-28 Mon 12:15-13:45>
-<2020-12-30 Wed 13:00-15:30>
-
-*** Uke 1
-<2021-01-04 Mon 12:15-13:45>
-<2021-01-06 Wed 13:00-15:30>
-
-*** Uke 2
-<2021-01-11 Mon 12:15-13:45>
-<2021-01-13 Wed 13:00-15:30>
-
-*** Uke 3
-<2021-01-18 Mon 12:15-13:45>
-<2021-01-20 Wed 13:00-15:30>
-
-*** Uke 4
-<2021-01-25 Mon 12:15-13:45>
-<2021-01-27 Wed 13:00-15:30>
-
-*** Uke 5
-<2021-02-01 Mon 12:15-13:45>
-<2021-02-03 Wed 13:00-15:30>
-
-* Differensiallikninger
-** Lærestoff
-Kapittel 7
-
-** Viktige begrep og setninger
-- Førsteordens differensiallikninger
-- Separable differensiallikninger
-- Retningsdiagram
-- Andreordens differensiallikninger
-- Udempet og dempet svingning
-
-** Kompetansemål
-- Modellere praktiske situasjoner ved å omforme problemstillingen til en differensiallikning, løse den og tolke resultatet
-- Løse lineære førsteordens og separable differensiallikninger ved regning og gjøre rede for noen viktige bruksområder
-- Løse andreordens homogene differensiallikninger og bruke Newtons andre lov til å beskrive frie svingninger ved periodiske funksjoner
-- Løse differensiallikninger og tegne retningsdiagrammer og integralkurver, og tolke dem ved å bruke digitale hjelpemidler
-- Formulere en matematisk modell ved hjelp av sentrale funksjoner på grunnlag av observerte data, bearbeide modellen og drøfte resultat og fremgangsmåte
-
-** Økter
-:LOGBOOK:
-- [2020-07-19 Sun 12:41] \\
-  Her stod det opprinnelig «6-7» og «9-12».
-:END:
-- Løse førsteordens og separable differensiallikninger
-- Løse andreordens differensiallikninger
-- Bruke dette i praktiske beregninger (fysikk)
-*** Uke 6
-<2021-02-08 Mon 12:15-13:45>
-<2021-02-10 Wed 13:00-15:30>
-
-*** Uke 7
-<2021-02-15 Mon 12:15-13:45>
-<2021-02-17 Wed 13:00-15:30>
-
-*** Uke 9
-<2021-03-01 Mon 12:15-13:45>
-<2021-03-03 Wed 13:00-15:30>
-
-*** Uke 10
-<2021-03-08 Mon 12:15-13:45>
-<2021-03-10 Wed 13:00-15:30>
-
-*** Uke 11
-<2021-03-15 Mon 12:15-13:45>
-<2021-03-17 Wed 13:00-15:30>
-
-*** Uke 12
-<2021-03-22 Mon 12:15-13:45>
-<2021-03-24 Wed 13:00-15:30>
-
-* Følger og rekker
-** Lærestoff
-
-** Viktige begrep og setninger
-- Aritmetiske følger og rekker
-- Geometriske følger og rekker
-- Konvergent og divergent
-- Induksjon
-
-** Kompetansemål
-- Finne og analysere rekursive og eksplisitte formler for tallmønstre med og uten digitale hjelpemidler, og gjennomføre og presentere enkle bevis knyttet til disse formlene
-- Gjennomføre og gjøre rede for induksjonsbevis
-- Summere endelige rekker med og uten digitale hjelpemidler, utlede og bruke formlene for summen av de $n$ første leddene i aritmetiske og geometriske rekker, og bruke dette til å løse praktiske problemer
-- Regne med uendelige geometriske rekker med konstante og variable kvotienter, bestemme konvergensområdet for disse rekkene og presentere resultatene
-
-** Økter
-:LOGBOOK:
-- [2020-07-19 Sun 12:42] \\
-  Her stod det opprinnelig «13-, 14-16».
-:END:
-- Finne sum av aritmetiske og geometriske rekker
-- Utføre induksjonsbevis
-*** Uke 13
-<2021-03-29 Mon 12:15-13:45>
-<2021-03-31 Wed 13:00-15:30>
-
-*** Uke 14
-<2021-04-05 Mon 12:15-13:45>
-<2021-04-07 Wed 13:00-15:30>
-
-*** Uke 15
-<2021-04-12 Mon 12:15-13:45>
-<2021-04-14 Wed 13:00-15:30>
-
-*** Uke 16
-<2021-04-19 Mon 12:15-13:45>
-<2021-04-21 Wed 13:00-15:30>
-* Møter :noexport:
-** DONE Samarbeidsdag med Sigrid
-:LOGBOOK:
-CLOCK: [2020-06-09 Tue 09:22]--[2020-06-09 Tue 12:36] =>  3:14
-:END:
-*** For å lage Jupyter-oppsett
-- Åpne Jupyter-Lab
-** Planleggingsmøte med Anna
-:PROPERTIES:
-:ROOM:     personal
-:END:
-:LOGBOOK:
-CLOCK: [2020-08-17 Mon 13:42]--[2020-08-17 Mon 14:17] =>  0:35
-:END:
-<2020-08-17 Mon 13:30-14:30>
-- [ ] Ført i Teams
-- Ett prosjekt felles med Fysikk 2 - ubestemt vårpart
-  - Alle timene i en uke
-  - Numerisk og analytisk
